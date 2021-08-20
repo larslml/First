@@ -44,6 +44,8 @@ body{
     font-weight:bold;
     background:white;
 }
-#footer{
+#footer #p{
     text-align: center;
+    background-color: azure;
+    color: #33a;
 }
